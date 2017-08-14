@@ -3,7 +3,6 @@
     "name": "Kiss Anime Video Loader",
     "version": "1.0.1",
     "description": "watch kiss anime videos without memory leak or sketchy ads",
-    "default_locale": "en",
     "content_scripts":[
         {
             "matches":[
