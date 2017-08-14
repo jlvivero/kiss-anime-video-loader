@@ -4,7 +4,7 @@
 
 var kiss = function() {
   var object2 = document.getElementById("divContentVideo");
-  if(object) {
+  if(object2) {
     var object = object2.innerHTML;
   }
   if(object) {
