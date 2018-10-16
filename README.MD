@@ -10,5 +10,8 @@ To use this extension:
 -  browse till you find the folder you just downloaded
 -  enjoy ^O^
 
-
-This only works with kiss anime and it works best with rapidvideo. It does NOT work with the beta server. Other streaming options work okay, it does not get rid of the sketchy ads when you press play for now. 
+This only works with kiss anime and it works best with rapid video.
+It does not work with the beta and alpha servers.
+Other streaming options should work well enough.
+On other streaming options besides rapid video, ads might still show.
+(but the memory leak problems should be solved)
